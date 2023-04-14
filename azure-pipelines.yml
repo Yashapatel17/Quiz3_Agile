@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'yquiz3'
+  name: 'quiz3'
 
 variables:
   solution: '**/*.sln'
