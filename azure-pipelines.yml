@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'yashs-MacBook-Air'
+  name: 'yquiz3'
 
 variables:
   solution: '**/*.sln'
