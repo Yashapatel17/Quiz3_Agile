@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{4A8AC473-3E8B-43B3-A775-DAFB65FD2B9A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Quiz3__database FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="9" Column="113" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quiz3_database" expanded="True">
+            <Node name="Quiz3_database" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Quiz3__database PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
